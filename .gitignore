@@ -7,3 +7,8 @@ checkpoints
 runs/
 dentex_dataset
 *.mha
+previous_work.zip
+training_data.zip
+validation_data.zip
+.ipynb_checkpoints
+.idea
