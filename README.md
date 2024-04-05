@@ -10,7 +10,3 @@ As we build on previous work of https://github.com/xyzlancehe/DentexSegAndDet th
 3. Open [Jupyter Lab](https://gpuhub.labservices.ch)
 4. Upload the `previous_work.zip` in root of the Jupyter Lab workspace
 5. Copy & execute `0_Setup.ipynb`
-
-## Getting Started
-
-1. Copy & execute `1_Getting_Started.ipynb`
